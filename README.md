@@ -1,1 +1,1 @@
-# Hoc su dung Git co ban 
+# Basic git studying
