@@ -1,2 +1,3 @@
 # Basic git studying
-https://zenodo.org/badge/303892113.svg
+DOI: https://zenodo.org/badge/latestdoi/303892113
+![Image](https://zenodo.org/badge/doi/10.5281/zenodo.4097259.svg)
